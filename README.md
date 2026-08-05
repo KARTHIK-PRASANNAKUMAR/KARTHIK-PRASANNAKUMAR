@@ -5,9 +5,8 @@
 
 **Data Analyst | Microsoft Certified Power BI Data Analyst (PL-300)**
 
-Welcome to my GitHub! I am a passionate data professional who loves turning messy, complex datasets into clear, actionable stories. With a background in Data Science and over two years of experience in the IT industry, I thrive on building robust data pipelines and designing interactive dashboards that genuinely drive business decisions[cite: 1]. 
+Welcome to my GitHub! I am a passionate data professional who loves turning messy, complex datasets into clear, actionable stories. With a background in Data Science and over two years of experience in the IT industry, I thrive on building robust data pipelines and designing interactive dashboards that genuinely drive business decisions. 
 
-When I am not querying databases or building machine learning models, I am always looking for new ways to optimize data workflows!
 
 ### 🌍 Quick Facts About Me
 * 💼 **Currently:** Working as a Data Analyst Intern at Fortray Global Services LTD, where I build interactive dashboards and optimize SQL queries to improve reporting efficiency[cite: 1].
