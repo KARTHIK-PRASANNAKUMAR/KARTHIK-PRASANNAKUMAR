@@ -7,8 +7,7 @@
 
 **Data Analyst | Microsoft Certified Power BI Data Analyst (PL-300)**
 
-<!-- Profile Views Counter -->
-![Profile Views](https://komarev.com/ghpvc/?username=KARTHIK-PRASANNAKUMAR&color=0078D4&style=flat-square&label=PROFILE+VIEWS)
+
 
 </div>
 
