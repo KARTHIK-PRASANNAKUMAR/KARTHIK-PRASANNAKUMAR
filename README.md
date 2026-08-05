@@ -19,7 +19,7 @@ Hi 👋, I'm Karthik Prasannakumar
 
 Welcome to my GitHub!
 
-I'm a Data Analyst with an MSc in Data Science and over 2 years of experience in Data Analytics, Business Intelligence, SQL, ETL Development, and Reporting.
+I'm a Data Analyst with an MSc in Data Science and over 3 years of experience in Data Analytics, Business Intelligence, SQL, ETL Development, and Reporting.
 
 I enjoy transforming complex datasets into meaningful insights that help businesses make informed decisions. From designing interactive Power BI dashboards to optimizing SQL queries and building ETL pipelines, I enjoy solving real-world business problems through data.
 
