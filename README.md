@@ -10,10 +10,7 @@ Hi 👋, I'm Karthik Prasannakumar
   </a>
 </p>
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=KARTHIK-PRASANNAKUMAR&label=Profile%20Views&color=0078D4&style=for-the-badge"/>
-<img src="https://img.shields.io/github/followers/KARTHIK-PRASANNAKUMAR?style=for-the-badge"/>
-</p>
+
 
 👨‍💻 About Me
 
@@ -114,17 +111,32 @@ Currently, I'm working as a Data Analyst Intern at Fortray Global Services Ltd, 
 <img height="170" src="https://streak-stats.demolab.com?user=KARTHIK-PRASANNAKUMAR&theme=tokyonight&hide_border=true"/>
 </p>
 
-GitHub stats widgets may occasionally fail because the external service is temporarily unavailable.
+---
 
-🤝 Let's Connect
+# 🤝 Let's Connect
 
+I'm always happy to connect with fellow data professionals, recruiters, and anyone passionate about **Data Analytics, Business Intelligence, Power BI, SQL, and Data Engineering**.
 
-
-
+Whether you'd like to discuss analytics, collaborate on projects, or explore new opportunities, feel free to reach out!
 
 <p align="center">
-<b>⭐ "Great insights come from great data—but real impact comes from understanding the story behind it."</b>
 
-Thanks for visiting my GitHub! Feel free to explore my repositories, connect with me, or collaborate on exciting data-driven projects.
+<a href="https://www.linkedin.com/in/karthikprasannakumar-data-analyst" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20Me-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:karthikprasannakumar1803@gmail.com">
+<img src="https://img.shields.io/badge/Email-karthikprasannakumar1803%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+### ⭐ *"Great insights come from great data—but real impact comes from understanding the story behind it."*
+
+Thanks for visiting my GitHub! Feel free to explore my repositories, connect with me, or collaborate on exciting data-driven projects. 🚀
 
 </p>
