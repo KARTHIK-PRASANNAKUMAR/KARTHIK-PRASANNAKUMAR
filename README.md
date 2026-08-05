@@ -55,8 +55,10 @@ When I am not querying databases or building machine learning models, I am alway
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KARTHIK-PRASANNAKUMAR&show_icons=true&theme=transparent&hide_border=true&title_color=0078D4&icon_color=0078D4&text_color=777777" alt="Karthik's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KARTHIK-PRASANNAKUMAR&layout=compact&theme=transparent&hide_border=true&title_color=0078D4&text_color=777777" alt="Top Languages" />
+
+![Karthik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KARTHIK-PRASANNAKUMAR&show_icons=true&theme=transparent&hide_border=true&title_color=0078D4&icon_color=0078D4&text_color=777777)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KARTHIK-PRASANNAKUMAR&layout=compact&theme=transparent&hide_border=true&title_color=0078D4&text_color=777777)
 </div>
 
 ---
