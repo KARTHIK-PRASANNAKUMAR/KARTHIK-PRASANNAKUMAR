@@ -1,13 +1,23 @@
+<div align="center">
+
 # Hi there, I'm Karthik! 👋 📊
 
-**Data Analyst | Microsoft Certified Power BI Data Analyst (PL-300)**[cite: 1]
+<!-- Animated Typing Text -->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0078D4&center=true&vCenter=true&width=500&lines=Data+Analyst;Microsoft+Certified+Power+BI;ETL+Developer;Data+Science+Enthusiast" alt="Typing SVG" /></a>
 
-Welcome to my GitHub! I am a passionate data professional who loves turning messy, complex datasets into clear, actionable stories. With a background in Data Science and over two years of experience in the IT industry, I thrive on building robust data pipelines and designing interactive dashboards that genuinely drive business decisions[cite: 1]. 
+**Data Analyst | Microsoft Certified Power BI Data Analyst (PL-300)**
+
+<!-- Profile Views Counter -->
+![Profile Views](https://komarev.com/ghpvc/?username=KARTHIK-PRASANNAKUMAR&color=0078D4&style=flat-square&label=PROFILE+VIEWS)
+
+</div>
+
+Welcome to my GitHub! I am a passionate data professional who loves turning messy, complex datasets into clear, actionable stories. With a background in Data Science and over two years of experience in the IT industry, I thrive on building robust data pipelines and designing interactive dashboards that genuinely drive business decisions. 
 
 When I am not querying databases or building machine learning models, I am always looking for new ways to optimize data workflows!
 
 ### 🌍 Quick Facts About Me
-* 💼 **Currently:** Working as a Data Analyst Intern at Fortray Global Services LTD, where I build interactive dashboards and optimize SQL queries to improve reporting efficiency[cite: 1].
+* 💼 **Currently:** Working as a Data Analyst Intern at Fortray Global Services LTD, where I build interactive dashboards and optimize SQL queries to improve reporting efficiency.
 * ⚙️ **Previously:** Built robust ETL pipelines processing over 5 million records daily as an ETL Developer at Ahana Systems.
 * 🎓 **Education:** MSc in Data Science from the University of Essex and a Bachelor of Engineering in Civil Engineering.
 * 🏆 **Top Certification:** Microsoft Certified: Power BI Data Analyst Associate (PL-300).
@@ -40,6 +50,15 @@ When I am not querying databases or building machine learning models, I am alway
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![ETL](https://img.shields.io/badge/ETL_Development-4B0082?style=for-the-badge)
 ![Data Warehousing](https://img.shields.io/badge/Data_Warehousing-008080?style=for-the-badge)
+
+---
+
+### 📊 GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=KARTHIK-PRASANNAKUMAR&show_icons=true&theme=transparent&hide_border=true&title_color=0078D4&icon_color=0078D4&text_color=777777" alt="Karthik's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KARTHIK-PRASANNAKUMAR&layout=compact&theme=transparent&hide_border=true&title_color=0078D4&text_color=777777" alt="Top Languages" />
+</div>
 
 ---
 
