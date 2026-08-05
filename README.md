@@ -57,16 +57,61 @@ Currently, I'm working as a Data Analyst Intern at Fortray Global Services Ltd, 
 
 🛠️ Tech Stack
 
-Languages & Databases
+### 💻 Languages & Databases
+
+<p align="left">
+
+<img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+
+<img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+
+</p>
 
 
 
-Business Intelligence
+### 📊 Business Intelligence
+
+<p align="left">
+
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/DAX-0078D4?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Power_Query-008272?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Power_Pivot-4B0082?style=for-the-badge"/>
+
+</p>
 
 
 
-Data Engineering
+### ⚙️ Data Engineering
 
+<p align="left">
+
+<img src="https://img.shields.io/badge/ETL-Development-4B0082?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Informatica-EA1D2C?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/SAP_BODS-0099CC?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Data_Warehousing-008080?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Data_Modelling-5E35B1?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white"/>
+
+</p>
 
 
 🚀 Featured Projects
