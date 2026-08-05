@@ -59,4 +59,4 @@ When I am not querying databases or building machine learning models, I am alway
 ### 🤝 Let's Connect!
 Looking to discuss data analytics, BI opportunities, or collaborate on a project? Feel free to reach out:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karthikprasannakumar-data-analyst)[cite: 1]
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karthikprasannakumar-data-analyst)
