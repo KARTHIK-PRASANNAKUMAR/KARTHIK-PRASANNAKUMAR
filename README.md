@@ -25,10 +25,9 @@ I enjoy transforming complex datasets into meaningful insights that help busines
 Currently, I'm working as a Data Analyst Intern at Fortray Global Services Ltd, where I develop dashboards, automate reporting, and collaborate with stakeholders to deliver actionable insights.
 
 ### 🌍 Quick Facts About Me
-* 💼 **Currently:** Working as a Data Analyst Intern at Fortray Global Services LTD, where I build interactive dashboards and optimize SQL queries to improve reporting efficiency[cite: 1].
+* 💼 **Currently:** Working as a Data Analyst Intern at Fortray Global Services LTD, where I build interactive dashboards and optimize SQL queries to improve reporting efficiency.
 * ⚙️ **Previously:** Built robust ETL pipelines processing over 5 million records daily as an ETL Developer at Ahana Systems.
 * 🎓 **Education:** MSc in Data Science from the University of Essex and a Bachelor of Engineering in Civil Engineering.
-* 🏆 **Top Certification:** Microsoft Certified: Power BI Data Analyst Associate (PL-300).
 
 🏆 Certification
 
