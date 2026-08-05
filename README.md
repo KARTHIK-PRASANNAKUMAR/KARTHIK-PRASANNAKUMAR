@@ -135,8 +135,7 @@ Whether you're looking to discuss analytics, collaborate on projects, or explore
 
 <p align="center">
 
-### ⭐ *"Great insights come from great data—but real impact comes from understanding the story behind it."*
+> ⭐ **"Every dataset tells a story—my goal is to uncover it and turn it into meaningful business value."**
 
-Thanks for visiting my GitHub! Feel free to explore my repositories, connect with me, or collaborate on exciting data-driven projects. 🚀
-
+Thanks for stopping by! Feel free to explore my projects, connect with me on LinkedIn, or reach out if you'd like to collaborate on data-driven solutions. 🚀
 </p>
