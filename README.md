@@ -1,6 +1,9 @@
 # Hi there, I'm Karthik! 👋 📊
 
-**Data Analyst | Microsoft Certified Power BI Data Analyst (PL-300)**[cite: 1]
+<!-- Animated Typing Text -->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0078D4&center=true&vCenter=true&width=500&lines=Data+Analyst;Microsoft+Certified+Power+BI;ETL+Developer;Data+Science+Enthusiast" alt="Typing SVG" /></a>
+
+**Data Analyst | Microsoft Certified Power BI Data Analyst (PL-300)**
 
 Welcome to my GitHub! I am a passionate data professional who loves turning messy, complex datasets into clear, actionable stories. With a background in Data Science and over two years of experience in the IT industry, I thrive on building robust data pipelines and designing interactive dashboards that genuinely drive business decisions[cite: 1]. 
 
