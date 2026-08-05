@@ -117,7 +117,7 @@ Currently, I'm working as a Data Analyst Intern at Fortray Global Services Ltd, 
 
 I'm always happy to connect with fellow data professionals, recruiters, and anyone passionate about **Data Analytics, Business Intelligence, Power BI, SQL, and Data Engineering**.
 
-Whether you'd like to discuss analytics, collaborate on projects, or explore new opportunities, feel free to reach out!
+Whether you're looking to discuss analytics, collaborate on projects, or explore new opportunities, I'd love to connect.
 
 <p align="center">
 
