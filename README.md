@@ -29,7 +29,6 @@ Currently, I'm working as a Data Analyst Intern at Fortray Global Services Ltd, 
 * ⚙️ **Previously:** Built robust ETL pipelines processing over 5 million records daily as an ETL Developer at Ahana Systems.
 * 🎓 **Education:** MSc in Data Science from the University of Essex and a Bachelor of Engineering in Civil Engineering.
 * 🏆 **Top Certification:** Microsoft Certified: Power BI Data Analyst Associate (PL-300).
-* 📫 **Reach me at:** karthikprasannakumar1803@gmail.com
 
 🏆 Certification
 
