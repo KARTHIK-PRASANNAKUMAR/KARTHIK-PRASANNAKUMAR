@@ -25,29 +25,12 @@ I enjoy transforming complex datasets into meaningful insights that help busines
 
 Currently, I'm working as a Data Analyst Intern at Fortray Global Services Ltd, where I develop dashboards, automate reporting, and collaborate with stakeholders to deliver actionable insights.
 
-🌍 Quick Facts
-
-💼 Data Analyst Intern @ Fortray Global Services Ltd
-
-⚙️ Former ETL Developer @ Ahana Systems & Solutions
-
-📊 Built 10+ Power BI Dashboards
-
-📈 Developed 15+ ETL Pipelines
-
-🚀 Processed 5+ Million Records Daily
-
-⚡ Reduced SQL Reporting Time by 40%
-
-✅ Achieved 99.9% Data Accuracy
-
-🎓 MSc Data Science – University of Essex
-
-🏆 Microsoft Certified: Power BI Data Analyst (PL-300)
-
-🌱 Currently learning Microsoft Fabric & Azure Data Services
-
-📫 Email: karthikprasannakumar1803@gmail.com
+### 🌍 Quick Facts About Me
+* 💼 **Currently:** Working as a Data Analyst Intern at Fortray Global Services LTD, where I build interactive dashboards and optimize SQL queries to improve reporting efficiency[cite: 1].
+* ⚙️ **Previously:** Built robust ETL pipelines processing over 5 million records daily as an ETL Developer at Ahana Systems.
+* 🎓 **Education:** MSc in Data Science from the University of Essex and a Bachelor of Engineering in Civil Engineering.
+* 🏆 **Top Certification:** Microsoft Certified: Power BI Data Analyst Associate (PL-300).
+* 📫 **Reach me at:** karthikprasannakumar1803@gmail.com
 
 🏆 Certification
 
