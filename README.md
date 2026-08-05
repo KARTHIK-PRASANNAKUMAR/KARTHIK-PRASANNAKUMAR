@@ -1,8 +1,10 @@
-Hi 👋, I'm Karthik Prasannakumar
+<h1 align="center">
+  Hi 👋, I'm <span style="font-weight:bold;">Karthik Prasannakumar</span>
+</h1>
 
-<p align="center">
-  <b>Data Analyst | Business Intelligence Analyst | Microsoft Certified Power BI Data Analyst (PL-300)</b>
-</p>
+<h3 align="center">
+  Data Analyst | Business Intelligence Analyst | Microsoft Certified Power BI Data Analyst (PL-300)
+</h3>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
