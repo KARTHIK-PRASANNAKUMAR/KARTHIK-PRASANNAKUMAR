@@ -97,31 +97,16 @@ Currently, I'm working as a Data Analyst Intern at Fortray Global Services Ltd, 
 </p>
 
 
-🚀 Featured Projects
+### 🚀 Featured Projects
 
-🔍 Customer Churn Prediction & Feature Engagement Analytics
-
-End-to-end analytics solution using Python, SQL, PostgreSQL, and Power BI to predict churn and deliver business insights.
-
-🔗 https://github.com/KARTHIK-PRASANNAKUMAR/Intelligent-Customer-Churn-Prediction-amp-Feature-Engagement-Optimization
-
-🏦 CREDENCE – Credit Risk Data Platform
-
-Explainable AI solution using LightGBM, XGBoost, and SHAP for transparent credit risk prediction.
-
-🔗 https://github.com/KARTHIK-PRASANNAKUMAR/Credence--Credit-Risk-
-
-📈 Sales & Margin Performance Dashboard
-
-Interactive Power BI dashboard with KPI reporting, DAX measures, and profitability analysis.
-
-🔗 https://github.com/KARTHIK-PRASANNAKUMAR/Sales-and-Margin-Dashboard
-
-💳 Banking System SQL Analytics
-
-SQL project covering DDL, DML, stored procedures, triggers, views, and reporting.
-
-🔗 https://github.com/KARTHIK-PRASANNAKUMAR/BankingSystemSQLDocs
+* 🔍 **[Customer Churn Prediction & Analytics](https://github.com/KARTHIK-PRASANNAKUMAR/Intelligent-Customer-Churn-Prediction-amp-Feature-Engagement-Optimization)** 
+  An automated, end-to-end ML solution using Python and SQL to identify customer churn risk, visualize behavior patterns, and deliver actionable retention insights.
+* 🏦 **[CREDENCE: Credit Risk Data Platform](https://github.com/KARTHIK-PRASANNAKUMAR/Credence--Credit-Risk-)** 
+  An explainable, fairness-aware credit scoring framework utilizing LightGBM and XGBoost, combined with SHAP explainability techniques to achieve transparent lending decisions.
+* 📈 **[Sales & Margin Performance Dashboard](https://github.com/KARTHIK-PRASANNAKUMAR/Sales-and-Margin-Dashboard)** 
+  An interactive, self-service Power BI reporting solution leveraging advanced DAX modeling to analyze monthly sales trends, revenue contributions, and profitability.
+* 💸 **[Banking System SQL Analytics](https://github.com/KARTHIK-PRASANNAKUMAR/BankingSystemSQLDocs)**
+  A comprehensive SQL-based system managing the full banking data lifecycle, from DDL and DML to advanced transformations like stored procedures and triggers.
 
 📊 GitHub Analytics
 
