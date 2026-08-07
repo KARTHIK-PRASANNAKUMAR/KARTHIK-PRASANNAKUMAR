@@ -105,11 +105,7 @@ Currently, I'm working as a Data Analyst Intern at Fortray Global Services Ltd, 
 * 💸 **[Banking System SQL Analytics](https://github.com/KARTHIK-PRASANNAKUMAR/BankingSystemSQLDocs)**
   A comprehensive SQL-based system managing the full banking data lifecycle, from DDL and DML to advanced transformations like stored procedures and triggers.
 
-📊 GitHub Analytics
 
-<p align="center">
-<img height="170" src="https://streak-stats.demolab.com?user=KARTHIK-PRASANNAKUMAR&theme=tokyonight&hide_border=true"/>
-</p>
 
 ---
 
