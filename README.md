@@ -131,7 +131,7 @@ Whether you're looking to discuss analytics, collaborate on projects, or explore
 
 <p align="center">
 
-> ⭐ **"Every dataset tells a story—my goal is to uncover it and turn it into meaningful business value."**
+>  **"Every dataset tells a story,my goal is to uncover it and turn it into meaningful business value."**
 
 Thanks for stopping by! Feel free to explore my projects, connect with me on LinkedIn, or reach out if you'd like to collaborate on data-driven solutions. 🚀
 </p>
